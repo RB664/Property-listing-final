@@ -85,7 +85,7 @@ select{
 p{
     margin-top: 20px;
     text-align: start;
-    margin-left: 25px;
+    /* margin-left: 25px; */
 }
 
 .container{
@@ -126,5 +126,18 @@ a{
 .container2{
     margin-right: 100px;
 }
+
+span{
+    padding-left: 5px;
+}
+
+#p1{
+    margin-left: 38px;
+}
+
+#p2{
+    margin-left: 25;
+}
+
 
 
